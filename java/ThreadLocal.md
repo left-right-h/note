@@ -1,0 +1,3 @@
+- 重写finalize()方法
+- Softrerfence 两个引用
+- threadLocal.set(value)  当前线程中的一个map，key是threadLocal对象，value是value 
