@@ -8,11 +8,6 @@ output/
 *.tar.gz
 tree.txt
 
-# eclipse ignore
-.settings/
-.project
-.classpath
-
 # idea ignore
 .idea/
 *.ipr
